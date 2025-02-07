@@ -11,8 +11,11 @@ In the project directory npm start, node index.js:
 Runs the app in the development mode.
 Open [http://212.38.94.29:3005](http://212.38.94.29:3005) to view it in your browser.
 
-<h3>Backend Part</h3>
+<h3>Backend Using</h3>
 This framwork used:
-- Node Js
-- Express Js
-- Postgresql
+
+ - Node Js
+ - Express Js
+ - Postgresql
+
+<hr>
